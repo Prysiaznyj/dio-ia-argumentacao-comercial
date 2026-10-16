@@ -1,8 +1,8 @@
-# 🎯 Desafio Criativo DIO — Quem Não Vende, Ajuda a Vender!
+# Desafio Criativo DIO — Quem Não Vende, Ajuda a Vender!
 
 ## O Poder da Argumentação: IA aplicada a vendas consultivas de sites e automações
 
-### 📌 Sobre o projeto
+### Sobre o projeto
 
 Este desafio demonstra como a engenharia de prompts pode apoiar a **prospecção e a argumentação comercial** de um profissional que desenvolve **sites, landing pages e automações de processos para empresas**.
 
@@ -12,7 +12,7 @@ Em vez de gerar um discurso de vendas genérico, o objetivo é estruturar um pro
 
 ---
 
-## 🧱 Passo 1 — Defina a intenção
+## Passo 1 — Definir a intenção
 
 **O que quero que a IA faça?**
 
@@ -32,7 +32,7 @@ Identificar oportunidades de melhoria, preparar perguntas para validar necessida
 
 ---
 
-## 🧱 Passo 2 — Adicione contexto e restrições
+## Passo 2 — Adicionar contexto e restrições
 
 **Contexto:**
 
@@ -57,16 +57,16 @@ Identificar oportunidades de melhoria, preparar perguntas para validar necessida
 
 - Não inventar dados sobre a empresa, faturamento, perdas financeiras, resultados ou retorno sobre investimento.
 - Diferenciar informações confirmadas de hipóteses a validar.
-- Não usar promessas de resultados garantidos, falsa escassez, pressão psicológica ou manipulação.
+- Não usar promessas de resultados garantidos, falsa escassez.
 - Evitar termos técnicos sem explicação, textos longos e abordagens genéricas como “tenho a solução perfeita para sua empresa”.
 - Não presumir que toda empresa precisa de um site novo ou de automação. Se não houver evidência de necessidade, recomendar uma investigação adicional.
 - Quando faltarem informações essenciais, perguntar ou indicar o que precisa ser descoberto antes de recomendar um serviço.
 
 ---
 
-## 🧱 Passo 3 — Una tudo em um prompt final
+## Passo 3 — Unir tudo em um prompt final
 
-### 🤖 Prompt final — Assistente de Vendas Consultivas para Soluções Digitais
+### Prompt final — Assistente de Vendas Consultivas para Soluções Digitais
 
 Copie o texto abaixo e preencha os campos entre colchetes para analisar uma nova oportunidade comercial.
 
@@ -114,7 +114,7 @@ Com base exclusivamente nessas informações:
 Use linguagem profissional, humana, objetiva e sem jargões técnicos.
 Não invente métricas, dados, problemas, depoimentos ou resultados.
 Não prometa aumento garantido de vendas, economia ou retorno financeiro.
-Evite manipulação, urgência artificial e mensagens comerciais genéricas.
+Evite mensagens comerciais genéricas.
 Se um site ou uma automação não fizer sentido para esse negócio,
 explique por quê e não force a recomendação.
 
@@ -124,7 +124,7 @@ possa utilizá-la antes e durante uma conversa comercial real.
 
 ---
 
-## 🧪 Exemplo de aplicação (cenário fictício)
+## Exemplo de aplicação (cenário fictício)
 
 Para testar o prompt, seria possível preencher os campos assim:
 
@@ -150,7 +150,7 @@ Esse tipo de argumentação vende a possibilidade de resolver um problema real, 
 
 ---
 
-## ✅ Aprendizados esperados
+## Aprendizados esperados
 
 Ao concluir este desafio, o prompt deve demonstrar a aplicação de:
 
@@ -160,7 +160,7 @@ Ao concluir este desafio, o prompt deve demonstrar a aplicação de:
 - **Instruções específicas:** solicitar entregas concretas e organizadas.
 - **Reutilização:** permitir personalização do mesmo prompt para diferentes empresas.
 
-### 📦 Entrega
+### Entrega
 
 Arquivo em formato `.md`, preparado para publicação em um repositório público do GitHub como parte dos desafios de engenharia de prompts da DIO.
 
