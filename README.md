@@ -1,4 +1,4 @@
-# 🎯 Quem Não Vende, Ajuda a Vender!
+# Quem Não Vende, Ajuda a Vender!
 
 ### O poder da argumentação com IA aplicada a vendas consultivas
 
@@ -8,7 +8,7 @@ A proposta é aplicar IA a um cenário profissional real: a venda consultiva de 
 
 > **Ideia central:** antes de oferecer uma solução digital, é preciso compreender o problema que ela pode resolver.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Muitas empresas podem ter oportunidades de melhoria em sua presença digital, na organização do atendimento ou em processos repetitivos. Isso não significa que toda empresa precise de um site novo ou de uma automação.
 
@@ -16,7 +16,7 @@ Este projeto apresenta um **prompt reutilizável** que orienta a IA a atuar como
 
 O objetivo não é automatizar decisões comerciais nem gerar mensagens agressivas de venda: é **melhorar a qualidade do diagnóstico e da comunicação de valor**.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Identificar possíveis oportunidades de melhoria em empresas de diferentes segmentos.
 - Separar **informações confirmadas** de **hipóteses que precisam ser validadas**.
@@ -25,7 +25,7 @@ O objetivo não é automatizar decisões comerciais nem gerar mensagens agressiv
 - Criar mensagens de prospecção personalizadas e respostas respeitosas a objeções.
 - Sugerir próximos passos sem pressão, promessas irreais ou manipulação.
 
-## 🧱 Construção do desafio
+## Construção do desafio
 
 O desenvolvimento do prompt segue três etapas:
 
@@ -37,7 +37,7 @@ O desenvolvimento do prompt segue três etapas:
 
 A descrição completa de cada etapa está no arquivo do desafio.
 
-## 🤖 O que o prompt entrega
+## O que o prompt entrega
 
 Ao informar o contexto de uma empresa, a IA é orientada a produzir:
 
@@ -51,7 +51,7 @@ Ao informar o contexto de uma empresa, a IA é orientada a produzir:
 
 Se os dados forem insuficientes, a IA deve indicar **quais informações coletar antes de recomendar uma solução**.
 
-## 🚀 Como utilizar
+## Como utilizar
 
 1. Abra o arquivo [`desafio-dio-argumentacao-comercial-ia.md`](./desafio-dio-argumentacao-comercial-ia.md).
 2. Localize a seção **“Passo 3 — Una tudo em um prompt final”**.
@@ -59,7 +59,7 @@ Se os dados forem insuficientes, a IA deve indicar **quais informações coletar
 4. Cole o comando em um assistente de IA generativa.
 5. Revise as sugestões, **valide as hipóteses** com o potencial cliente e adapte a abordagem ao contexto real.
 
-### 🧪 Exemplo de aplicação
+### Exemplo de aplicação
 
 **Cenário fictício:** uma clínica de estética divulga seus serviços pelo Instagram e recebe contatos pelo WhatsApp. Ainda não sabemos se enfrenta dificuldades de agendamento, demora nas respostas ou falta de informações para clientes.
 
@@ -73,7 +73,7 @@ Somente após conhecer as respostas faria sentido avaliar alternativas como uma 
 
 **Importante:** o exemplo é ilustrativo e não representa um diagnóstico realizado em uma empresa real.
 
-## 🛠️ Conceitos aplicados
+## Conceitos aplicados
 
 - Engenharia de prompts
 - Inteligência artificial generativa
@@ -84,7 +84,7 @@ Somente após conhecer as respostas faria sentido avaliar alternativas como uma 
 
 **Formato do projeto:** documentação em Markdown (`.md`). Não há aplicação, integração ou automação de software implementada neste repositório; a entrega é o prompt estruturado e sua metodologia de utilização.
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 .
@@ -92,13 +92,13 @@ Somente após conhecer as respostas faria sentido avaliar alternativas como uma 
 └── desafio-dio-argumentacao-comercial-ia.md
 ```
 
-## ✅ Boas práticas e limitações
+## Boas práticas e limitações
 
 O prompt foi desenvolvido para evitar a invenção de informações sobre empresas, o uso de métricas sem fonte, promessas de resultado garantido e a recomendação indiscriminada de soluções.
 
 As saídas geradas por IA são **sugestões de apoio à análise comercial**. Antes de enviar uma mensagem ou apresentar uma proposta, é necessário conferir as informações, investigar as necessidades e exercer julgamento profissional.
 
-## 📚 Sobre o desafio
+## Sobre o desafio
 
 Este trabalho foi criado como entrega do **Desafio Criativo da DIO — “Quem Não Vende, Ajuda a Vender! O Poder da Argumentação”**.
 
